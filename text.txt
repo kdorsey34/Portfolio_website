@@ -1,0 +1,26 @@
+    Bootstrap is a development framework that was created to assist in 
+the creation of responsive websites and apps. To make development and 
+design easier and more streamline they provide tons of themes, templates, 
+and other components. Some of these components available include drop down
+ menus, progress bars, thumbnail images and so much more. The three primary 
+ files it utilizes are HTML, CSS and JavaScript which assist in creating cool 
+ responsive websites. This allows websites to adjust its size based on the 
+ visitor’s screen and presentation.
+
+
+
+
+
+
+
+
+
+
+Citation:
+
+Ugbovo, Prosper. “Brief History Of Bootstrap.”
+https://dev.to/yongdev/brief-history-of-bootstrap-3gi6. 
+Accessed 19 October 2022.
+
+Jan, Anna. “What is Bootstrap and How does it work?”
+https://www.quickstart.com/blog/what-is-bootstrap-and-how-does-it-work/. Accessed 19 October 2022.
